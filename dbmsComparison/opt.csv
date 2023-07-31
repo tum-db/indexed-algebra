@@ -1,0 +1,658 @@
+Implementation, query, optimization, repetitions, stddev, time
+Indexed Algebra, temptable.sql, Simplify Expressions, 1, 0, 4.892
+Indexed Algebra, temptable.sql, Unnesting, 1, 0, 2.898
+Indexed Algebra, temptable.sql, Predicate Pushdown, 1, 0, 2.823
+Indexed Algebra, temptable.sql, Side-way Information Passing, 1, 0, 5.438
+Indexed Algebra, temptable.sql, Cardinality Estimation, 1, 0, 151.471
+Indexed Algebra, temptable.sql, Join Ordering, 1, 0, 3.074
+Indexed Algebra, temptable.sql, Common Subtree Elimination, 1, 0, 4.124
+Indexed Algebra, temptable.sql, Physical Planning, 1, 0, 2.805
+Indexed Algebra, temptable.sql, Total, 1, 0, 178.012
+Indexed Algebra, queries/6.sql, Simplify Expressions, 1, 0, 14.317
+Indexed Algebra, queries/6.sql, Unnesting, 1, 0, 4.57
+Indexed Algebra, queries/6.sql, Predicate Pushdown, 1, 0, 55.798
+Indexed Algebra, queries/6.sql, Side-way Information Passing, 1, 0, 13.938
+Indexed Algebra, queries/6.sql, Cardinality Estimation, 1, 0, 28.364
+Indexed Algebra, queries/6.sql, Join Ordering, 1, 0, 90.119
+Indexed Algebra, queries/6.sql, Common Subtree Elimination, 1, 0, 26.864
+Indexed Algebra, queries/6.sql, Physical Planning, 1, 0, 19.434
+Indexed Algebra, queries/6.sql, Total, 1, 0, 253.907
+Indexed Algebra, queries/6.sql, Simplify Expressions, 1, 0, 4.463
+Indexed Algebra, queries/6.sql, Unnesting, 1, 0, 5.563
+Indexed Algebra, queries/6.sql, Predicate Pushdown, 1, 0, 47.74
+Indexed Algebra, queries/6.sql, Side-way Information Passing, 1, 0, 8.713
+Indexed Algebra, queries/6.sql, Cardinality Estimation, 1, 0, 16.171
+Indexed Algebra, queries/6.sql, Join Ordering, 1, 0, 64.829
+Indexed Algebra, queries/6.sql, Common Subtree Elimination, 1, 0, 24.672
+Indexed Algebra, queries/6.sql, Physical Planning, 1, 0, 15.322
+Indexed Algebra, queries/6.sql, Total, 1, 0, 188.135
+Indexed Algebra, queries/6.sql, Simplify Expressions, 1, 0, 4.039
+Indexed Algebra, queries/6.sql, Unnesting, 1, 0, 5.528
+Indexed Algebra, queries/6.sql, Predicate Pushdown, 1, 0, 45.903
+Indexed Algebra, queries/6.sql, Side-way Information Passing, 1, 0, 8.355
+Indexed Algebra, queries/6.sql, Cardinality Estimation, 1, 0, 15.996
+Indexed Algebra, queries/6.sql, Join Ordering, 1, 0, 63.847
+Indexed Algebra, queries/6.sql, Common Subtree Elimination, 1, 0, 23.63
+Indexed Algebra, queries/6.sql, Physical Planning, 1, 0, 14.053
+Indexed Algebra, queries/6.sql, Total, 1, 0, 181.992
+Indexed Algebra, queries/7.sql, Simplify Expressions, 1, 0, 3.696
+Indexed Algebra, queries/7.sql, Unnesting, 1, 0, 5.053
+Indexed Algebra, queries/7.sql, Predicate Pushdown, 1, 0, 43.065
+Indexed Algebra, queries/7.sql, Side-way Information Passing, 1, 0, 7.477
+Indexed Algebra, queries/7.sql, Cardinality Estimation, 1, 0, 14.447
+Indexed Algebra, queries/7.sql, Join Ordering, 1, 0, 61.01
+Indexed Algebra, queries/7.sql, Common Subtree Elimination, 1, 0, 16.795
+Indexed Algebra, queries/7.sql, Physical Planning, 1, 0, 19.275
+Indexed Algebra, queries/7.sql, Total, 1, 0, 175.396
+Indexed Algebra, queries/7.sql, Simplify Expressions, 1, 0, 3.758
+Indexed Algebra, queries/7.sql, Unnesting, 1, 0, 4.978
+Indexed Algebra, queries/7.sql, Predicate Pushdown, 1, 0, 42.39
+Indexed Algebra, queries/7.sql, Side-way Information Passing, 1, 0, 7.773
+Indexed Algebra, queries/7.sql, Cardinality Estimation, 1, 0, 14.21
+Indexed Algebra, queries/7.sql, Join Ordering, 1, 0, 59.421
+Indexed Algebra, queries/7.sql, Common Subtree Elimination, 1, 0, 16.67
+Indexed Algebra, queries/7.sql, Physical Planning, 1, 0, 18.802
+Indexed Algebra, queries/7.sql, Total, 1, 0, 172.56
+Indexed Algebra, queries/7.sql, Simplify Expressions, 1, 0, 3.665
+Indexed Algebra, queries/7.sql, Unnesting, 1, 0, 5.081
+Indexed Algebra, queries/7.sql, Predicate Pushdown, 1, 0, 42.526
+Indexed Algebra, queries/7.sql, Side-way Information Passing, 1, 0, 7.579
+Indexed Algebra, queries/7.sql, Cardinality Estimation, 1, 0, 14.117
+Indexed Algebra, queries/7.sql, Join Ordering, 1, 0, 59.534
+Indexed Algebra, queries/7.sql, Common Subtree Elimination, 1, 0, 17.631
+Indexed Algebra, queries/7.sql, Physical Planning, 1, 0, 18.853
+Indexed Algebra, queries/7.sql, Total, 1, 0, 173.528
+Indexed Algebra, queries/8.sql, Simplify Expressions, 1, 0, 3.725
+Indexed Algebra, queries/8.sql, Unnesting, 1, 0, 5.465
+Indexed Algebra, queries/8.sql, Predicate Pushdown, 1, 0, 47.339
+Indexed Algebra, queries/8.sql, Side-way Information Passing, 1, 0, 8.202
+Indexed Algebra, queries/8.sql, Cardinality Estimation, 1, 0, 16.708
+Indexed Algebra, queries/8.sql, Join Ordering, 1, 0, 70.321
+Indexed Algebra, queries/8.sql, Common Subtree Elimination, 1, 0, 22.49
+Indexed Algebra, queries/8.sql, Physical Planning, 1, 0, 15.33
+Indexed Algebra, queries/8.sql, Total, 1, 0, 192.142
+Indexed Algebra, queries/8.sql, Simplify Expressions, 1, 0, 3.843
+Indexed Algebra, queries/8.sql, Unnesting, 1, 0, 5.454
+Indexed Algebra, queries/8.sql, Predicate Pushdown, 1, 0, 47.33
+Indexed Algebra, queries/8.sql, Side-way Information Passing, 1, 0, 8.188
+Indexed Algebra, queries/8.sql, Cardinality Estimation, 1, 0, 16.674
+Indexed Algebra, queries/8.sql, Join Ordering, 1, 0, 68.079
+Indexed Algebra, queries/8.sql, Common Subtree Elimination, 1, 0, 22.981
+Indexed Algebra, queries/8.sql, Physical Planning, 1, 0, 14.641
+Indexed Algebra, queries/8.sql, Total, 1, 0, 189.811
+Indexed Algebra, queries/8.sql, Simplify Expressions, 1, 0, 3.76
+Indexed Algebra, queries/8.sql, Unnesting, 1, 0, 5.431
+Indexed Algebra, queries/8.sql, Predicate Pushdown, 1, 0, 47.947
+Indexed Algebra, queries/8.sql, Side-way Information Passing, 1, 0, 8.322
+Indexed Algebra, queries/8.sql, Cardinality Estimation, 1, 0, 16.651
+Indexed Algebra, queries/8.sql, Join Ordering, 1, 0, 68.342
+Indexed Algebra, queries/8.sql, Common Subtree Elimination, 1, 0, 22.933
+Indexed Algebra, queries/8.sql, Physical Planning, 1, 0, 14.713
+Indexed Algebra, queries/8.sql, Total, 1, 0, 190.715
+Indexed Algebra, queries/9.sql, Simplify Expressions, 1, 0, 3.963
+Indexed Algebra, queries/9.sql, Unnesting, 1, 0, 5.955
+Indexed Algebra, queries/9.sql, Predicate Pushdown, 1, 0, 52.429
+Indexed Algebra, queries/9.sql, Side-way Information Passing, 1, 0, 8.847
+Indexed Algebra, queries/9.sql, Cardinality Estimation, 1, 0, 26.946
+Indexed Algebra, queries/9.sql, Join Ordering, 1, 0, 78.272
+Indexed Algebra, queries/9.sql, Common Subtree Elimination, 1, 0, 23.072
+Indexed Algebra, queries/9.sql, Physical Planning, 1, 0, 17.913
+Indexed Algebra, queries/9.sql, Total, 1, 0, 220.201
+Indexed Algebra, queries/9.sql, Simplify Expressions, 1, 0, 3.84
+Indexed Algebra, queries/9.sql, Unnesting, 1, 0, 5.825
+Indexed Algebra, queries/9.sql, Predicate Pushdown, 1, 0, 52.964
+Indexed Algebra, queries/9.sql, Side-way Information Passing, 1, 0, 8.723
+Indexed Algebra, queries/9.sql, Cardinality Estimation, 1, 0, 18.52
+Indexed Algebra, queries/9.sql, Join Ordering, 1, 0, 77.938
+Indexed Algebra, queries/9.sql, Common Subtree Elimination, 1, 0, 23.505
+Indexed Algebra, queries/9.sql, Physical Planning, 1, 0, 17.484
+Indexed Algebra, queries/9.sql, Total, 1, 0, 211.544
+Indexed Algebra, queries/9.sql, Simplify Expressions, 1, 0, 3.972
+Indexed Algebra, queries/9.sql, Unnesting, 1, 0, 5.902
+Indexed Algebra, queries/9.sql, Predicate Pushdown, 1, 0, 52.173
+Indexed Algebra, queries/9.sql, Side-way Information Passing, 1, 0, 8.797
+Indexed Algebra, queries/9.sql, Cardinality Estimation, 1, 0, 18.705
+Indexed Algebra, queries/9.sql, Join Ordering, 1, 0, 77.418
+Indexed Algebra, queries/9.sql, Common Subtree Elimination, 1, 0, 23.207
+Indexed Algebra, queries/9.sql, Physical Planning, 1, 0, 17.313
+Indexed Algebra, queries/9.sql, Total, 1, 0, 210.275
+Indexed Algebra, queries/10.sql, Simplify Expressions, 1, 0, 4.417
+Indexed Algebra, queries/10.sql, Unnesting, 1, 0, 6.651
+Indexed Algebra, queries/10.sql, Predicate Pushdown, 1, 0, 58.948
+Indexed Algebra, queries/10.sql, Side-way Information Passing, 1, 0, 10.22
+Indexed Algebra, queries/10.sql, Cardinality Estimation, 1, 0, 21.305
+Indexed Algebra, queries/10.sql, Join Ordering, 1, 0, 99.628
+Indexed Algebra, queries/10.sql, Common Subtree Elimination, 1, 0, 33.952
+Indexed Algebra, queries/10.sql, Physical Planning, 1, 0, 19.29
+Indexed Algebra, queries/10.sql, Total, 1, 0, 254.938
+Indexed Algebra, queries/10.sql, Simplify Expressions, 1, 0, 4.583
+Indexed Algebra, queries/10.sql, Unnesting, 1, 0, 6.696
+Indexed Algebra, queries/10.sql, Predicate Pushdown, 1, 0, 59.362
+Indexed Algebra, queries/10.sql, Side-way Information Passing, 1, 0, 10.331
+Indexed Algebra, queries/10.sql, Cardinality Estimation, 1, 0, 21.629
+Indexed Algebra, queries/10.sql, Join Ordering, 1, 0, 87.919
+Indexed Algebra, queries/10.sql, Common Subtree Elimination, 1, 0, 33.815
+Indexed Algebra, queries/10.sql, Physical Planning, 1, 0, 19.644
+Indexed Algebra, queries/10.sql, Total, 1, 0, 244.529
+Indexed Algebra, queries/10.sql, Simplify Expressions, 1, 0, 4.693
+Indexed Algebra, queries/10.sql, Unnesting, 1, 0, 6.706
+Indexed Algebra, queries/10.sql, Predicate Pushdown, 1, 0, 58.486
+Indexed Algebra, queries/10.sql, Side-way Information Passing, 1, 0, 9.94
+Indexed Algebra, queries/10.sql, Cardinality Estimation, 1, 0, 21.423
+Indexed Algebra, queries/10.sql, Join Ordering, 1, 0, 87.566
+Indexed Algebra, queries/10.sql, Common Subtree Elimination, 1, 0, 33.237
+Indexed Algebra, queries/10.sql, Physical Planning, 1, 0, 19.358
+Indexed Algebra, queries/10.sql, Total, 1, 0, 241.932
+Indexed Algebra, queries/11.sql, Simplify Expressions, 1, 0, 4.744
+Indexed Algebra, queries/11.sql, Unnesting, 1, 0, 7.03
+Indexed Algebra, queries/11.sql, Predicate Pushdown, 1, 0, 62.604
+Indexed Algebra, queries/11.sql, Side-way Information Passing, 1, 0, 10.612
+Indexed Algebra, queries/11.sql, Cardinality Estimation, 1, 0, 22.649
+Indexed Algebra, queries/11.sql, Join Ordering, 1, 0, 96.961
+Indexed Algebra, queries/11.sql, Common Subtree Elimination, 1, 0, 33.296
+Indexed Algebra, queries/11.sql, Physical Planning, 1, 0, 21.907
+Indexed Algebra, queries/11.sql, Total, 1, 0, 260.34
+Indexed Algebra, queries/11.sql, Simplify Expressions, 1, 0, 4.826
+Indexed Algebra, queries/11.sql, Unnesting, 1, 0, 7.011
+Indexed Algebra, queries/11.sql, Predicate Pushdown, 1, 0, 62.178
+Indexed Algebra, queries/11.sql, Side-way Information Passing, 1, 0, 10.402
+Indexed Algebra, queries/11.sql, Cardinality Estimation, 1, 0, 22.494
+Indexed Algebra, queries/11.sql, Join Ordering, 1, 0, 94.223
+Indexed Algebra, queries/11.sql, Common Subtree Elimination, 1, 0, 34.133
+Indexed Algebra, queries/11.sql, Physical Planning, 1, 0, 21.72
+Indexed Algebra, queries/11.sql, Total, 1, 0, 257.503
+Indexed Algebra, queries/11.sql, Simplify Expressions, 1, 0, 4.496
+Indexed Algebra, queries/11.sql, Unnesting, 1, 0, 6.868
+Indexed Algebra, queries/11.sql, Predicate Pushdown, 1, 0, 62.027
+Indexed Algebra, queries/11.sql, Side-way Information Passing, 1, 0, 10.334
+Indexed Algebra, queries/11.sql, Cardinality Estimation, 1, 0, 22.361
+Indexed Algebra, queries/11.sql, Join Ordering, 1, 0, 93.274
+Indexed Algebra, queries/11.sql, Common Subtree Elimination, 1, 0, 33.146
+Indexed Algebra, queries/11.sql, Physical Planning, 1, 0, 21.727
+Indexed Algebra, queries/11.sql, Total, 1, 0, 254.754
+Indexed Algebra, queries/12.sql, Simplify Expressions, 1, 0, 4.941
+Indexed Algebra, queries/12.sql, Unnesting, 1, 0, 7.707
+Indexed Algebra, queries/12.sql, Predicate Pushdown, 1, 0, 66.92
+Indexed Algebra, queries/12.sql, Side-way Information Passing, 1, 0, 10.934
+Indexed Algebra, queries/12.sql, Cardinality Estimation, 1, 0, 32.565
+Indexed Algebra, queries/12.sql, Join Ordering, 1, 0, 104.674
+Indexed Algebra, queries/12.sql, Common Subtree Elimination, 1, 0, 35.362
+Indexed Algebra, queries/12.sql, Physical Planning, 1, 0, 19.337
+Indexed Algebra, queries/12.sql, Total, 1, 0, 285.884
+Indexed Algebra, queries/12.sql, Simplify Expressions, 1, 0, 5.062
+Indexed Algebra, queries/12.sql, Unnesting, 1, 0, 7.896
+Indexed Algebra, queries/12.sql, Predicate Pushdown, 1, 0, 67.869
+Indexed Algebra, queries/12.sql, Side-way Information Passing, 1, 0, 11.481
+Indexed Algebra, queries/12.sql, Cardinality Estimation, 1, 0, 25.097
+Indexed Algebra, queries/12.sql, Join Ordering, 1, 0, 103.984
+Indexed Algebra, queries/12.sql, Common Subtree Elimination, 1, 0, 36.1
+Indexed Algebra, queries/12.sql, Physical Planning, 1, 0, 22.231
+Indexed Algebra, queries/12.sql, Total, 1, 0, 282.628
+Indexed Algebra, queries/12.sql, Simplify Expressions, 1, 0, 5.002
+Indexed Algebra, queries/12.sql, Unnesting, 1, 0, 7.735
+Indexed Algebra, queries/12.sql, Predicate Pushdown, 1, 0, 66.6
+Indexed Algebra, queries/12.sql, Side-way Information Passing, 1, 0, 11.289
+Indexed Algebra, queries/12.sql, Cardinality Estimation, 1, 0, 24.7
+Indexed Algebra, queries/12.sql, Join Ordering, 1, 0, 101.363
+Indexed Algebra, queries/12.sql, Common Subtree Elimination, 1, 0, 35.564
+Indexed Algebra, queries/12.sql, Physical Planning, 1, 0, 19.963
+Indexed Algebra, queries/12.sql, Total, 1, 0, 275.705
+Indexed Algebra, queries/13.sql, Simplify Expressions, 1, 0, 5.604
+Indexed Algebra, queries/13.sql, Unnesting, 1, 0, 8.296
+Indexed Algebra, queries/13.sql, Predicate Pushdown, 1, 0, 71.613
+Indexed Algebra, queries/13.sql, Side-way Information Passing, 1, 0, 12.377
+Indexed Algebra, queries/13.sql, Cardinality Estimation, 1, 0, 26.284
+Indexed Algebra, queries/13.sql, Join Ordering, 1, 0, 113.304
+Indexed Algebra, queries/13.sql, Common Subtree Elimination, 1, 0, 40.071
+Indexed Algebra, queries/13.sql, Physical Planning, 1, 0, 24.442
+Indexed Algebra, queries/13.sql, Total, 1, 0, 302.504
+Indexed Algebra, queries/13.sql, Simplify Expressions, 1, 0, 5.379
+Indexed Algebra, queries/13.sql, Unnesting, 1, 0, 8.327
+Indexed Algebra, queries/13.sql, Predicate Pushdown, 1, 0, 71.882
+Indexed Algebra, queries/13.sql, Side-way Information Passing, 1, 0, 12.116
+Indexed Algebra, queries/13.sql, Cardinality Estimation, 1, 0, 26.555
+Indexed Algebra, queries/13.sql, Join Ordering, 1, 0, 114.717
+Indexed Algebra, queries/13.sql, Common Subtree Elimination, 1, 0, 39.928
+Indexed Algebra, queries/13.sql, Physical Planning, 1, 0, 24.453
+Indexed Algebra, queries/13.sql, Total, 1, 0, 303.857
+Indexed Algebra, queries/13.sql, Simplify Expressions, 1, 0, 5.493
+Indexed Algebra, queries/13.sql, Unnesting, 1, 0, 8.36
+Indexed Algebra, queries/13.sql, Predicate Pushdown, 1, 0, 71.087
+Indexed Algebra, queries/13.sql, Side-way Information Passing, 1, 0, 11.843
+Indexed Algebra, queries/13.sql, Cardinality Estimation, 1, 0, 26.918
+Indexed Algebra, queries/13.sql, Join Ordering, 1, 0, 111.23
+Indexed Algebra, queries/13.sql, Common Subtree Elimination, 1, 0, 39.601
+Indexed Algebra, queries/13.sql, Physical Planning, 1, 0, 24.384
+Indexed Algebra, queries/13.sql, Total, 1, 0, 299.384
+Indexed Algebra, queries/14.sql, Simplify Expressions, 1, 0, 5.409
+Indexed Algebra, queries/14.sql, Unnesting, 1, 0, 8.733
+Indexed Algebra, queries/14.sql, Predicate Pushdown, 1, 0, 75.557
+Indexed Algebra, queries/14.sql, Side-way Information Passing, 1, 0, 13.072
+Indexed Algebra, queries/14.sql, Cardinality Estimation, 1, 0, 29.453
+Indexed Algebra, queries/14.sql, Join Ordering, 1, 0, 129.354
+Indexed Algebra, queries/14.sql, Common Subtree Elimination, 1, 0, 42.212
+Indexed Algebra, queries/14.sql, Physical Planning, 1, 0, 24.792
+Indexed Algebra, queries/14.sql, Total, 1, 0, 333.005
+Indexed Algebra, queries/14.sql, Simplify Expressions, 1, 0, 5.519
+Indexed Algebra, queries/14.sql, Unnesting, 1, 0, 8.725
+Indexed Algebra, queries/14.sql, Predicate Pushdown, 1, 0, 76.223
+Indexed Algebra, queries/14.sql, Side-way Information Passing, 1, 0, 13.327
+Indexed Algebra, queries/14.sql, Cardinality Estimation, 1, 0, 28.497
+Indexed Algebra, queries/14.sql, Join Ordering, 1, 0, 120.297
+Indexed Algebra, queries/14.sql, Common Subtree Elimination, 1, 0, 42.373
+Indexed Algebra, queries/14.sql, Physical Planning, 1, 0, 24.512
+Indexed Algebra, queries/14.sql, Total, 1, 0, 323.853
+Indexed Algebra, queries/14.sql, Simplify Expressions, 1, 0, 5.413
+Indexed Algebra, queries/14.sql, Unnesting, 1, 0, 8.723
+Indexed Algebra, queries/14.sql, Predicate Pushdown, 1, 0, 90.61
+Indexed Algebra, queries/14.sql, Side-way Information Passing, 1, 0, 12.76
+Indexed Algebra, queries/14.sql, Cardinality Estimation, 1, 0, 28.469
+Indexed Algebra, queries/14.sql, Join Ordering, 1, 0, 118.229
+Indexed Algebra, queries/14.sql, Common Subtree Elimination, 1, 0, 42.66
+Indexed Algebra, queries/14.sql, Physical Planning, 1, 0, 24.708
+Indexed Algebra, queries/14.sql, Total, 1, 0, 336.001
+Indexed Algebra, queries/15.sql, Simplify Expressions, 1, 0, 5.659
+Indexed Algebra, queries/15.sql, Unnesting, 1, 0, 9.14
+Indexed Algebra, queries/15.sql, Predicate Pushdown, 1, 0, 80.674
+Indexed Algebra, queries/15.sql, Side-way Information Passing, 1, 0, 23.057
+Indexed Algebra, queries/15.sql, Cardinality Estimation, 1, 0, 30.177
+Indexed Algebra, queries/15.sql, Join Ordering, 1, 0, 135.461
+Indexed Algebra, queries/15.sql, Common Subtree Elimination, 1, 0, 46.667
+Indexed Algebra, queries/15.sql, Physical Planning, 1, 0, 27.52
+Indexed Algebra, queries/15.sql, Total, 1, 0, 363.066
+Indexed Algebra, queries/15.sql, Simplify Expressions, 1, 0, 5.807
+Indexed Algebra, queries/15.sql, Unnesting, 1, 0, 9.167
+Indexed Algebra, queries/15.sql, Predicate Pushdown, 1, 0, 80.106
+Indexed Algebra, queries/15.sql, Side-way Information Passing, 1, 0, 13.333
+Indexed Algebra, queries/15.sql, Cardinality Estimation, 1, 0, 30.733
+Indexed Algebra, queries/15.sql, Join Ordering, 1, 0, 128.877
+Indexed Algebra, queries/15.sql, Common Subtree Elimination, 1, 0, 46.677
+Indexed Algebra, queries/15.sql, Physical Planning, 1, 0, 27.293
+Indexed Algebra, queries/15.sql, Total, 1, 0, 346.927
+Indexed Algebra, queries/15.sql, Simplify Expressions, 1, 0, 5.701
+Indexed Algebra, queries/15.sql, Unnesting, 1, 0, 9.215
+Indexed Algebra, queries/15.sql, Predicate Pushdown, 1, 0, 81.117
+Indexed Algebra, queries/15.sql, Side-way Information Passing, 1, 0, 13.832
+Indexed Algebra, queries/15.sql, Cardinality Estimation, 1, 0, 30.781
+Indexed Algebra, queries/15.sql, Join Ordering, 1, 0, 134.039
+Indexed Algebra, queries/15.sql, Common Subtree Elimination, 1, 0, 47.106
+Indexed Algebra, queries/15.sql, Physical Planning, 1, 0, 27.349
+Indexed Algebra, queries/15.sql, Total, 1, 0, 353.839
+Indexed Algebra, queries/16.sql, Simplify Expressions, 1, 0, 5.911
+Indexed Algebra, queries/16.sql, Unnesting, 1, 0, 9.79
+Indexed Algebra, queries/16.sql, Predicate Pushdown, 1, 0, 86.274
+Indexed Algebra, queries/16.sql, Side-way Information Passing, 1, 0, 14.298
+Indexed Algebra, queries/16.sql, Cardinality Estimation, 1, 0, 33.637
+Indexed Algebra, queries/16.sql, Join Ordering, 1, 0, 138.839
+Indexed Algebra, queries/16.sql, Common Subtree Elimination, 1, 0, 50.631
+Indexed Algebra, queries/16.sql, Physical Planning, 1, 0, 28.326
+Indexed Algebra, queries/16.sql, Total, 1, 0, 372.344
+Indexed Algebra, queries/16.sql, Simplify Expressions, 1, 0, 6.018
+Indexed Algebra, queries/16.sql, Unnesting, 1, 0, 9.797
+Indexed Algebra, queries/16.sql, Predicate Pushdown, 1, 0, 86.206
+Indexed Algebra, queries/16.sql, Side-way Information Passing, 1, 0, 15.009
+Indexed Algebra, queries/16.sql, Cardinality Estimation, 1, 0, 32.653
+Indexed Algebra, queries/16.sql, Join Ordering, 1, 0, 140.214
+Indexed Algebra, queries/16.sql, Common Subtree Elimination, 1, 0, 49.085
+Indexed Algebra, queries/16.sql, Physical Planning, 1, 0, 28.127
+Indexed Algebra, queries/16.sql, Total, 1, 0, 371.684
+Indexed Algebra, queries/16.sql, Simplify Expressions, 1, 0, 5.835
+Indexed Algebra, queries/16.sql, Unnesting, 1, 0, 9.665
+Indexed Algebra, queries/16.sql, Predicate Pushdown, 1, 0, 86.599
+Indexed Algebra, queries/16.sql, Side-way Information Passing, 1, 0, 14.181
+Indexed Algebra, queries/16.sql, Cardinality Estimation, 1, 0, 32.601
+Indexed Algebra, queries/16.sql, Join Ordering, 1, 0, 139.262
+Indexed Algebra, queries/16.sql, Common Subtree Elimination, 1, 0, 49.237
+Indexed Algebra, queries/16.sql, Physical Planning, 1, 0, 28.207
+Indexed Algebra, queries/16.sql, Total, 1, 0, 370.22
+Indexed Algebra, queries/17.sql, Simplify Expressions, 1, 0, 6.28
+Indexed Algebra, queries/17.sql, Unnesting, 1, 0, 10.204
+Indexed Algebra, queries/17.sql, Predicate Pushdown, 1, 0, 104.581
+Indexed Algebra, queries/17.sql, Side-way Information Passing, 1, 0, 16.209
+Indexed Algebra, queries/17.sql, Cardinality Estimation, 1, 0, 34.89
+Indexed Algebra, queries/17.sql, Join Ordering, 1, 0, 146.758
+Indexed Algebra, queries/17.sql, Common Subtree Elimination, 1, 0, 52.348
+Indexed Algebra, queries/17.sql, Physical Planning, 1, 0, 30.622
+Indexed Algebra, queries/17.sql, Total, 1, 0, 402.391
+Indexed Algebra, queries/17.sql, Simplify Expressions, 1, 0, 6.13
+Indexed Algebra, queries/17.sql, Unnesting, 1, 0, 10.239
+Indexed Algebra, queries/17.sql, Predicate Pushdown, 1, 0, 91.645
+Indexed Algebra, queries/17.sql, Side-way Information Passing, 1, 0, 16.073
+Indexed Algebra, queries/17.sql, Cardinality Estimation, 1, 0, 35.161
+Indexed Algebra, queries/17.sql, Join Ordering, 1, 0, 148.005
+Indexed Algebra, queries/17.sql, Common Subtree Elimination, 1, 0, 50.06
+Indexed Algebra, queries/17.sql, Physical Planning, 1, 0, 29.283
+Indexed Algebra, queries/17.sql, Total, 1, 0, 387.138
+Indexed Algebra, queries/17.sql, Simplify Expressions, 1, 0, 6.234
+Indexed Algebra, queries/17.sql, Unnesting, 1, 0, 10.291
+Indexed Algebra, queries/17.sql, Predicate Pushdown, 1, 0, 90.08
+Indexed Algebra, queries/17.sql, Side-way Information Passing, 1, 0, 14.734
+Indexed Algebra, queries/17.sql, Cardinality Estimation, 1, 0, 35.432
+Indexed Algebra, queries/17.sql, Join Ordering, 1, 0, 147.561
+Indexed Algebra, queries/17.sql, Common Subtree Elimination, 1, 0, 50.233
+Indexed Algebra, queries/17.sql, Physical Planning, 1, 0, 29.565
+Indexed Algebra, queries/17.sql, Total, 1, 0, 384.659
+Indexed Algebra, queries/18.sql, Simplify Expressions, 1, 0, 6.84
+Indexed Algebra, queries/18.sql, Unnesting, 1, 0, 10.998
+Indexed Algebra, queries/18.sql, Predicate Pushdown, 1, 0, 96.507
+Indexed Algebra, queries/18.sql, Side-way Information Passing, 1, 0, 16.622
+Indexed Algebra, queries/18.sql, Cardinality Estimation, 1, 0, 36.243
+Indexed Algebra, queries/18.sql, Join Ordering, 1, 0, 156.975
+Indexed Algebra, queries/18.sql, Common Subtree Elimination, 1, 0, 58.473
+Indexed Algebra, queries/18.sql, Physical Planning, 1, 0, 26.862
+Indexed Algebra, queries/18.sql, Total, 1, 0, 410.03
+Indexed Algebra, queries/18.sql, Simplify Expressions, 1, 0, 6.451
+Indexed Algebra, queries/18.sql, Unnesting, 1, 0, 10.912
+Indexed Algebra, queries/18.sql, Predicate Pushdown, 1, 0, 97.068
+Indexed Algebra, queries/18.sql, Side-way Information Passing, 1, 0, 17.676
+Indexed Algebra, queries/18.sql, Cardinality Estimation, 1, 0, 37.401
+Indexed Algebra, queries/18.sql, Join Ordering, 1, 0, 159.277
+Indexed Algebra, queries/18.sql, Common Subtree Elimination, 1, 0, 56.534
+Indexed Algebra, queries/18.sql, Physical Planning, 1, 0, 26.391
+Indexed Algebra, queries/18.sql, Total, 1, 0, 412.222
+Indexed Algebra, queries/18.sql, Simplify Expressions, 1, 0, 6.458
+Indexed Algebra, queries/18.sql, Unnesting, 1, 0, 10.826
+Indexed Algebra, queries/18.sql, Predicate Pushdown, 1, 0, 95.004
+Indexed Algebra, queries/18.sql, Side-way Information Passing, 1, 0, 15.51
+Indexed Algebra, queries/18.sql, Cardinality Estimation, 1, 0, 36.306
+Indexed Algebra, queries/18.sql, Join Ordering, 1, 0, 156.289
+Indexed Algebra, queries/18.sql, Common Subtree Elimination, 1, 0, 55.833
+Indexed Algebra, queries/18.sql, Physical Planning, 1, 0, 26.757
+Indexed Algebra, queries/18.sql, Total, 1, 0, 403.495
+Indexed Algebra, queries/19.sql, Simplify Expressions, 1, 0, 6.87
+Indexed Algebra, queries/19.sql, Unnesting, 1, 0, 11.217
+Indexed Algebra, queries/19.sql, Predicate Pushdown, 1, 0, 102.551
+Indexed Algebra, queries/19.sql, Side-way Information Passing, 1, 0, 16.721
+Indexed Algebra, queries/19.sql, Cardinality Estimation, 1, 0, 38.111
+Indexed Algebra, queries/19.sql, Join Ordering, 1, 0, 167.111
+Indexed Algebra, queries/19.sql, Common Subtree Elimination, 1, 0, 58.052
+Indexed Algebra, queries/19.sql, Physical Planning, 1, 0, 32.258
+Indexed Algebra, queries/19.sql, Total, 1, 0, 433.398
+Indexed Algebra, queries/19.sql, Simplify Expressions, 1, 0, 6.964
+Indexed Algebra, queries/19.sql, Unnesting, 1, 0, 11.352
+Indexed Algebra, queries/19.sql, Predicate Pushdown, 1, 0, 103.224
+Indexed Algebra, queries/19.sql, Side-way Information Passing, 1, 0, 17.855
+Indexed Algebra, queries/19.sql, Cardinality Estimation, 1, 0, 38.455
+Indexed Algebra, queries/19.sql, Join Ordering, 1, 0, 168.633
+Indexed Algebra, queries/19.sql, Common Subtree Elimination, 1, 0, 59.318
+Indexed Algebra, queries/19.sql, Physical Planning, 1, 0, 33.456
+Indexed Algebra, queries/19.sql, Total, 1, 0, 439.763
+Indexed Algebra, queries/19.sql, Simplify Expressions, 1, 0, 7.028
+Indexed Algebra, queries/19.sql, Unnesting, 1, 0, 11.186
+Indexed Algebra, queries/19.sql, Predicate Pushdown, 1, 0, 103.338
+Indexed Algebra, queries/19.sql, Side-way Information Passing, 1, 0, 17.942
+Indexed Algebra, queries/19.sql, Cardinality Estimation, 1, 0, 38.661
+Indexed Algebra, queries/19.sql, Join Ordering, 1, 0, 169.366
+Indexed Algebra, queries/19.sql, Common Subtree Elimination, 1, 0, 58.013
+Indexed Algebra, queries/19.sql, Physical Planning, 1, 0, 32.289
+Indexed Algebra, queries/19.sql, Total, 1, 0, 438.353
+Indexed Algebra, queries/20.sql, Simplify Expressions, 1, 0, 7.041
+Indexed Algebra, queries/20.sql, Unnesting, 1, 0, 11.931
+Indexed Algebra, queries/20.sql, Predicate Pushdown, 1, 0, 107.483
+Indexed Algebra, queries/20.sql, Side-way Information Passing, 1, 0, 18.722
+Indexed Algebra, queries/20.sql, Cardinality Estimation, 1, 0, 40.643
+Indexed Algebra, queries/20.sql, Join Ordering, 1, 0, 176.735
+Indexed Algebra, queries/20.sql, Common Subtree Elimination, 1, 0, 64
+Indexed Algebra, queries/20.sql, Physical Planning, 1, 0, 36.909
+Indexed Algebra, queries/20.sql, Total, 1, 0, 469.732
+Indexed Algebra, queries/20.sql, Simplify Expressions, 1, 0, 7.266
+Indexed Algebra, queries/20.sql, Unnesting, 1, 0, 12.208
+Indexed Algebra, queries/20.sql, Predicate Pushdown, 1, 0, 105.254
+Indexed Algebra, queries/20.sql, Side-way Information Passing, 1, 0, 19.068
+Indexed Algebra, queries/20.sql, Cardinality Estimation, 1, 0, 40.26
+Indexed Algebra, queries/20.sql, Join Ordering, 1, 0, 176.096
+Indexed Algebra, queries/20.sql, Common Subtree Elimination, 1, 0, 63.341
+Indexed Algebra, queries/20.sql, Physical Planning, 1, 0, 37.4
+Indexed Algebra, queries/20.sql, Total, 1, 0, 467.057
+Indexed Algebra, queries/20.sql, Simplify Expressions, 1, 0, 7.129
+Indexed Algebra, queries/20.sql, Unnesting, 1, 0, 12.038
+Indexed Algebra, queries/20.sql, Predicate Pushdown, 1, 0, 104.847
+Indexed Algebra, queries/20.sql, Side-way Information Passing, 1, 0, 17.768
+Indexed Algebra, queries/20.sql, Cardinality Estimation, 1, 0, 40.247
+Indexed Algebra, queries/20.sql, Join Ordering, 1, 0, 174.48
+Indexed Algebra, queries/20.sql, Common Subtree Elimination, 1, 0, 63.434
+Indexed Algebra, queries/20.sql, Physical Planning, 1, 0, 36.726
+Indexed Algebra, queries/20.sql, Total, 1, 0, 462.933
+Indexed Algebra, queries/33.sql, Simplify Expressions, 1, 0, 10.632
+Indexed Algebra, queries/33.sql, Unnesting, 1, 0, 18.415
+Indexed Algebra, queries/33.sql, Predicate Pushdown, 1, 0, 170.605
+Indexed Algebra, queries/33.sql, Side-way Information Passing, 1, 0, 33.517
+Indexed Algebra, queries/33.sql, Cardinality Estimation, 1, 0, 79.239
+Indexed Algebra, queries/33.sql, Join Ordering, 1, 0, 306.022
+Indexed Algebra, queries/33.sql, Common Subtree Elimination, 1, 0, 108.908
+Indexed Algebra, queries/33.sql, Physical Planning, 1, 0, 50.555
+Indexed Algebra, queries/33.sql, Total, 1, 0, 778.446
+Indexed Algebra, queries/33.sql, Simplify Expressions, 1, 0, 10.724
+Indexed Algebra, queries/33.sql, Unnesting, 1, 0, 18.459
+Indexed Algebra, queries/33.sql, Predicate Pushdown, 1, 0, 170.032
+Indexed Algebra, queries/33.sql, Side-way Information Passing, 1, 0, 31.394
+Indexed Algebra, queries/33.sql, Cardinality Estimation, 1, 0, 65.365
+Indexed Algebra, queries/33.sql, Join Ordering, 1, 0, 314.098
+Indexed Algebra, queries/33.sql, Common Subtree Elimination, 1, 0, 107.355
+Indexed Algebra, queries/33.sql, Physical Planning, 1, 0, 50.306
+Indexed Algebra, queries/33.sql, Total, 1, 0, 768.283
+Indexed Algebra, queries/33.sql, Simplify Expressions, 1, 0, 10.653
+Indexed Algebra, queries/33.sql, Unnesting, 1, 0, 18.552
+Indexed Algebra, queries/33.sql, Predicate Pushdown, 1, 0, 182.9
+Indexed Algebra, queries/33.sql, Side-way Information Passing, 1, 0, 31.971
+Indexed Algebra, queries/33.sql, Cardinality Estimation, 1, 0, 65.862
+Indexed Algebra, queries/33.sql, Join Ordering, 1, 0, 324.72
+Indexed Algebra, queries/33.sql, Common Subtree Elimination, 1, 0, 107.673
+Indexed Algebra, queries/33.sql, Physical Planning, 1, 0, 49.864
+Indexed Algebra, queries/33.sql, Total, 1, 0, 792.7
+Indexed Algebra, queries/40.sql, Simplify Expressions, 1, 0, 13.058
+Indexed Algebra, queries/40.sql, Unnesting, 1, 0, 22.194
+Indexed Algebra, queries/40.sql, Predicate Pushdown, 1, 0, 211.251
+Indexed Algebra, queries/40.sql, Side-way Information Passing, 1, 0, 42.03
+Indexed Algebra, queries/40.sql, Cardinality Estimation, 1, 0, 91.235
+Indexed Algebra, queries/40.sql, Join Ordering, 1, 0, 404.076
+Indexed Algebra, queries/40.sql, Common Subtree Elimination, 1, 0, 138.292
+Indexed Algebra, queries/40.sql, Physical Planning, 1, 0, 71.915
+Indexed Algebra, queries/40.sql, Total, 1, 0, 994.554
+Indexed Algebra, queries/40.sql, Simplify Expressions, 1, 0, 13.283
+Indexed Algebra, queries/40.sql, Unnesting, 1, 0, 22.349
+Indexed Algebra, queries/40.sql, Predicate Pushdown, 1, 0, 218.294
+Indexed Algebra, queries/40.sql, Side-way Information Passing, 1, 0, 42.896
+Indexed Algebra, queries/40.sql, Cardinality Estimation, 1, 0, 81.801
+Indexed Algebra, queries/40.sql, Join Ordering, 1, 0, 396.017
+Indexed Algebra, queries/40.sql, Common Subtree Elimination, 1, 0, 135.753
+Indexed Algebra, queries/40.sql, Physical Planning, 1, 0, 70.454
+Indexed Algebra, queries/40.sql, Total, 1, 0, 981.323
+Indexed Algebra, queries/40.sql, Simplify Expressions, 1, 0, 13.798
+Indexed Algebra, queries/40.sql, Unnesting, 1, 0, 22.595
+Indexed Algebra, queries/40.sql, Predicate Pushdown, 1, 0, 214.096
+Indexed Algebra, queries/40.sql, Side-way Information Passing, 1, 0, 44.392
+Indexed Algebra, queries/40.sql, Cardinality Estimation, 1, 0, 83.558
+Indexed Algebra, queries/40.sql, Join Ordering, 1, 0, 408.074
+Indexed Algebra, queries/40.sql, Common Subtree Elimination, 1, 0, 136.27
+Indexed Algebra, queries/40.sql, Physical Planning, 1, 0, 71.575
+Indexed Algebra, queries/40.sql, Total, 1, 0, 994.864
+Indexed Algebra, queries/50.sql, Simplify Expressions, 1, 0, 16.082
+Indexed Algebra, queries/50.sql, Unnesting, 1, 0, 27.181
+Indexed Algebra, queries/50.sql, Predicate Pushdown, 1, 0, 261.798
+Indexed Algebra, queries/50.sql, Side-way Information Passing, 1, 0, 53.949
+Indexed Algebra, queries/50.sql, Cardinality Estimation, 1, 0, 118.167
+Indexed Algebra, queries/50.sql, Join Ordering, 1, 0, 507.589
+Indexed Algebra, queries/50.sql, Common Subtree Elimination, 1, 0, 174.28
+Indexed Algebra, queries/50.sql, Physical Planning, 1, 0, 71.8
+Indexed Algebra, queries/50.sql, Total, 1, 0, 1231.41
+Indexed Algebra, queries/50.sql, Simplify Expressions, 1, 0, 16.073
+Indexed Algebra, queries/50.sql, Unnesting, 1, 0, 27.681
+Indexed Algebra, queries/50.sql, Predicate Pushdown, 1, 0, 263.225
+Indexed Algebra, queries/50.sql, Side-way Information Passing, 1, 0, 52.676
+Indexed Algebra, queries/50.sql, Cardinality Estimation, 1, 0, 100.223
+Indexed Algebra, queries/50.sql, Join Ordering, 1, 0, 499.349
+Indexed Algebra, queries/50.sql, Common Subtree Elimination, 1, 0, 174.604
+Indexed Algebra, queries/50.sql, Physical Planning, 1, 0, 69.1
+Indexed Algebra, queries/50.sql, Total, 1, 0, 1203.45
+Indexed Algebra, queries/50.sql, Simplify Expressions, 1, 0, 15.76
+Indexed Algebra, queries/50.sql, Unnesting, 1, 0, 27.296
+Indexed Algebra, queries/50.sql, Predicate Pushdown, 1, 0, 257.585
+Indexed Algebra, queries/50.sql, Side-way Information Passing, 1, 0, 52.553
+Indexed Algebra, queries/50.sql, Cardinality Estimation, 1, 0, 98.783
+Indexed Algebra, queries/50.sql, Join Ordering, 1, 0, 505.621
+Indexed Algebra, queries/50.sql, Common Subtree Elimination, 1, 0, 172.468
+Indexed Algebra, queries/50.sql, Physical Planning, 1, 0, 70.206
+Indexed Algebra, queries/50.sql, Total, 1, 0, 1200.81
+Indexed Algebra, queries/60.sql, Simplify Expressions, 1, 0, 17.815
+Indexed Algebra, queries/60.sql, Unnesting, 1, 0, 32.289
+Indexed Algebra, queries/60.sql, Predicate Pushdown, 1, 0, 314.178
+Indexed Algebra, queries/60.sql, Side-way Information Passing, 1, 0, 61.266
+Indexed Algebra, queries/60.sql, Cardinality Estimation, 1, 0, 133.398
+Indexed Algebra, queries/60.sql, Join Ordering, 1, 0, 624.033
+Indexed Algebra, queries/60.sql, Common Subtree Elimination, 1, 0, 207.721
+Indexed Algebra, queries/60.sql, Physical Planning, 1, 0, 92.172
+Indexed Algebra, queries/60.sql, Total, 1, 0, 1483.38
+Indexed Algebra, queries/60.sql, Simplify Expressions, 1, 0, 17.956
+Indexed Algebra, queries/60.sql, Unnesting, 1, 0, 32.353
+Indexed Algebra, queries/60.sql, Predicate Pushdown, 1, 0, 310.56
+Indexed Algebra, queries/60.sql, Side-way Information Passing, 1, 0, 60.371
+Indexed Algebra, queries/60.sql, Cardinality Estimation, 1, 0, 124.27
+Indexed Algebra, queries/60.sql, Join Ordering, 1, 0, 628.99
+Indexed Algebra, queries/60.sql, Common Subtree Elimination, 1, 0, 209.335
+Indexed Algebra, queries/60.sql, Physical Planning, 1, 0, 92.551
+Indexed Algebra, queries/60.sql, Total, 1, 0, 1476.93
+Indexed Algebra, queries/60.sql, Simplify Expressions, 1, 0, 18.307
+Indexed Algebra, queries/60.sql, Unnesting, 1, 0, 32.556
+Indexed Algebra, queries/60.sql, Predicate Pushdown, 1, 0, 311.699
+Indexed Algebra, queries/60.sql, Side-way Information Passing, 1, 0, 60.091
+Indexed Algebra, queries/60.sql, Cardinality Estimation, 1, 0, 128.687
+Indexed Algebra, queries/60.sql, Join Ordering, 1, 0, 620.123
+Indexed Algebra, queries/60.sql, Common Subtree Elimination, 1, 0, 209.031
+Indexed Algebra, queries/60.sql, Physical Planning, 1, 0, 90.078
+Indexed Algebra, queries/60.sql, Total, 1, 0, 1471.1
+Indexed Algebra, queries/64.sql, Simplify Expressions, 1, 0, 19.222
+Indexed Algebra, queries/64.sql, Unnesting, 1, 0, 34.064
+Indexed Algebra, queries/64.sql, Predicate Pushdown, 1, 0, 336.365
+Indexed Algebra, queries/64.sql, Side-way Information Passing, 1, 0, 64.016
+Indexed Algebra, queries/64.sql, Cardinality Estimation, 1, 0, 138.166
+Indexed Algebra, queries/64.sql, Join Ordering, 1, 0, 663.628
+Indexed Algebra, queries/64.sql, Common Subtree Elimination, 1, 0, 225.243
+Indexed Algebra, queries/64.sql, Physical Planning, 1, 0, 92.608
+Indexed Algebra, queries/64.sql, Total, 1, 0, 1573.86
+Indexed Algebra, queries/64.sql, Simplify Expressions, 1, 0, 18.521
+Indexed Algebra, queries/64.sql, Unnesting, 1, 0, 33.724
+Indexed Algebra, queries/64.sql, Predicate Pushdown, 1, 0, 331.405
+Indexed Algebra, queries/64.sql, Side-way Information Passing, 1, 0, 65.696
+Indexed Algebra, queries/64.sql, Cardinality Estimation, 1, 0, 127.662
+Indexed Algebra, queries/64.sql, Join Ordering, 1, 0, 669.608
+Indexed Algebra, queries/64.sql, Common Subtree Elimination, 1, 0, 225.814
+Indexed Algebra, queries/64.sql, Physical Planning, 1, 0, 98.606
+Indexed Algebra, queries/64.sql, Total, 1, 0, 1571.58
+Indexed Algebra, queries/64.sql, Simplify Expressions, 1, 0, 16.924
+Indexed Algebra, queries/64.sql, Unnesting, 1, 0, 34.939
+Indexed Algebra, queries/64.sql, Predicate Pushdown, 1, 0, 332.932
+Indexed Algebra, queries/64.sql, Side-way Information Passing, 1, 0, 64.116
+Indexed Algebra, queries/64.sql, Cardinality Estimation, 1, 0, 126.59
+Indexed Algebra, queries/64.sql, Join Ordering, 1, 0, 664.989
+Indexed Algebra, queries/64.sql, Common Subtree Elimination, 1, 0, 223.495
+Indexed Algebra, queries/64.sql, Physical Planning, 1, 0, 91.933
+Indexed Algebra, queries/64.sql, Total, 1, 0, 1556.45
+Indexed Algebra, queries/100.sql, Simplify Expressions, 1, 0, 29.339
+Indexed Algebra, queries/100.sql, Unnesting, 1, 0, 51.959
+Indexed Algebra, queries/100.sql, Predicate Pushdown, 1, 0, 499.636
+Indexed Algebra, queries/100.sql, Side-way Information Passing, 1, 0, 86.974
+Indexed Algebra, queries/100.sql, Cardinality Estimation, 1, 0, 244.718
+Indexed Algebra, queries/100.sql, Join Ordering, 1, 0, 1353.73
+Indexed Algebra, queries/100.sql, Common Subtree Elimination, 1, 0, 367.485
+Indexed Algebra, queries/100.sql, Physical Planning, 1, 0, 142.787
+Indexed Algebra, queries/100.sql, Total, 1, 0, 2777.23
+Indexed Algebra, queries/100.sql, Simplify Expressions, 1, 0, 29.35
+Indexed Algebra, queries/100.sql, Unnesting, 1, 0, 52.033
+Indexed Algebra, queries/100.sql, Predicate Pushdown, 1, 0, 503.631
+Indexed Algebra, queries/100.sql, Side-way Information Passing, 1, 0, 86.081
+Indexed Algebra, queries/100.sql, Cardinality Estimation, 1, 0, 205.316
+Indexed Algebra, queries/100.sql, Join Ordering, 1, 0, 1299.14
+Indexed Algebra, queries/100.sql, Common Subtree Elimination, 1, 0, 364.135
+Indexed Algebra, queries/100.sql, Physical Planning, 1, 0, 143.487
+Indexed Algebra, queries/100.sql, Total, 1, 0, 2683.74
+Indexed Algebra, queries/100.sql, Simplify Expressions, 1, 0, 30.289
+Indexed Algebra, queries/100.sql, Unnesting, 1, 0, 52.237
+Indexed Algebra, queries/100.sql, Predicate Pushdown, 1, 0, 512.521
+Indexed Algebra, queries/100.sql, Side-way Information Passing, 1, 0, 95.098
+Indexed Algebra, queries/100.sql, Cardinality Estimation, 1, 0, 211.782
+Indexed Algebra, queries/100.sql, Join Ordering, 1, 0, 1270.45
+Indexed Algebra, queries/100.sql, Common Subtree Elimination, 1, 0, 216.225
+Indexed Algebra, queries/100.sql, Physical Planning, 1, 0, 77.53
+Indexed Algebra, queries/100.sql, Total, 1, 0, 2466.65
+Indexed Algebra, queries/200.sql, Simplify Expressions, 1, 0, 60.563
+Indexed Algebra, queries/200.sql, Unnesting, 1, 0, 102.147
+Indexed Algebra, queries/200.sql, Predicate Pushdown, 1, 0, 1053.78
+Indexed Algebra, queries/200.sql, Side-way Information Passing, 1, 0, 160.502
+Indexed Algebra, queries/200.sql, Cardinality Estimation, 1, 0, 520.817
+Indexed Algebra, queries/200.sql, Join Ordering, 1, 0, 4906.61
+Indexed Algebra, queries/200.sql, Common Subtree Elimination, 1, 0, 444.651
+Indexed Algebra, queries/200.sql, Physical Planning, 1, 0, 146.603
+Indexed Algebra, queries/200.sql, Total, 1, 0, 7396.22
+Indexed Algebra, queries/200.sql, Simplify Expressions, 1, 0, 63.698
+Indexed Algebra, queries/200.sql, Unnesting, 1, 0, 112.672
+Indexed Algebra, queries/200.sql, Predicate Pushdown, 1, 0, 1061.06
+Indexed Algebra, queries/200.sql, Side-way Information Passing, 1, 0, 162.623
+Indexed Algebra, queries/200.sql, Cardinality Estimation, 1, 0, 424.702
+Indexed Algebra, queries/200.sql, Join Ordering, 1, 0, 5168.83
+Indexed Algebra, queries/200.sql, Common Subtree Elimination, 1, 0, 443.001
+Indexed Algebra, queries/200.sql, Physical Planning, 1, 0, 142.565
+Indexed Algebra, queries/200.sql, Total, 1, 0, 7579.7
+Indexed Algebra, queries/200.sql, Simplify Expressions, 1, 0, 65.357
+Indexed Algebra, queries/200.sql, Unnesting, 1, 0, 102.523
+Indexed Algebra, queries/200.sql, Predicate Pushdown, 1, 0, 1060.1
+Indexed Algebra, queries/200.sql, Side-way Information Passing, 1, 0, 163.965
+Indexed Algebra, queries/200.sql, Cardinality Estimation, 1, 0, 441.275
+Indexed Algebra, queries/200.sql, Join Ordering, 1, 0, 5008.56
+Indexed Algebra, queries/200.sql, Common Subtree Elimination, 1, 0, 452.522
+Indexed Algebra, queries/200.sql, Physical Planning, 1, 0, 143.427
+Indexed Algebra, queries/200.sql, Total, 1, 0, 7438.4
+Indexed Algebra, queries/300.sql, Simplify Expressions, 1, 0, 96.171
+Indexed Algebra, queries/300.sql, Unnesting, 1, 0, 153.824
+Indexed Algebra, queries/300.sql, Predicate Pushdown, 1, 0, 1329.34
+Indexed Algebra, queries/300.sql, Side-way Information Passing, 1, 0, 109.29
+Indexed Algebra, queries/300.sql, Cardinality Estimation, 1, 0, 554.882
+Indexed Algebra, queries/300.sql, Join Ordering, 1, 0, 9851.81
+Indexed Algebra, queries/300.sql, Common Subtree Elimination, 1, 0, 709.184
+Indexed Algebra, queries/300.sql, Physical Planning, 1, 0, 206.917
+Indexed Algebra, queries/300.sql, Total, 1, 0, 13012.1
+Indexed Algebra, queries/300.sql, Simplify Expressions, 1, 0, 53.627
+Indexed Algebra, queries/300.sql, Unnesting, 1, 0, 85.712
+Indexed Algebra, queries/300.sql, Predicate Pushdown, 1, 0, 732.537
+Indexed Algebra, queries/300.sql, Side-way Information Passing, 1, 0, 114.844
+Indexed Algebra, queries/300.sql, Cardinality Estimation, 1, 0, 465.835
+Indexed Algebra, queries/300.sql, Join Ordering, 1, 0, 9896.63
+Indexed Algebra, queries/300.sql, Common Subtree Elimination, 1, 0, 684.899
+Indexed Algebra, queries/300.sql, Physical Planning, 1, 0, 190.718
+Indexed Algebra, queries/300.sql, Total, 1, 0, 12225.6
+Indexed Algebra, queries/300.sql, Simplify Expressions, 1, 0, 95.681
+Indexed Algebra, queries/300.sql, Unnesting, 1, 0, 152.42
+Indexed Algebra, queries/300.sql, Predicate Pushdown, 1, 0, 1024.73
+Indexed Algebra, queries/300.sql, Side-way Information Passing, 1, 0, 113.985
+Indexed Algebra, queries/300.sql, Cardinality Estimation, 1, 0, 490.952
+Indexed Algebra, queries/300.sql, Join Ordering, 1, 0, 9804.48
+Indexed Algebra, queries/300.sql, Common Subtree Elimination, 1, 0, 701.309
+Indexed Algebra, queries/300.sql, Physical Planning, 1, 0, 190.663
+Indexed Algebra, queries/300.sql, Total, 1, 0, 12574.8
+Indexed Algebra, queries/1000.sql, Simplify Expressions, 1, 0, 225.212
+Indexed Algebra, queries/1000.sql, Unnesting, 1, 0, 331.362
+Indexed Algebra, queries/1000.sql, Predicate Pushdown, 1, 0, 3214.5
+Indexed Algebra, queries/1000.sql, Side-way Information Passing, 1, 0, 338.892
+Indexed Algebra, queries/1000.sql, Cardinality Estimation, 1, 0, 2331.46
+Indexed Algebra, queries/1000.sql, Join Ordering, 1, 0, 152310
+Indexed Algebra, queries/1000.sql, Common Subtree Elimination, 1, 0, 3546.82
+Indexed Algebra, queries/1000.sql, Physical Planning, 1, 0, 606.019
+Indexed Algebra, queries/1000.sql, Total, 1, 0, 162905
+Indexed Algebra, queries/1000.sql, Simplify Expressions, 1, 0, 195.587
+Indexed Algebra, queries/1000.sql, Unnesting, 1, 0, 348.142
+Indexed Algebra, queries/1000.sql, Predicate Pushdown, 1, 0, 3190.9
+Indexed Algebra, queries/1000.sql, Side-way Information Passing, 1, 0, 354.345
+Indexed Algebra, queries/1000.sql, Cardinality Estimation, 1, 0, 1777.8
+Indexed Algebra, queries/1000.sql, Join Ordering, 1, 0, 152097
+Indexed Algebra, queries/1000.sql, Common Subtree Elimination, 1, 0, 3625.41
+Indexed Algebra, queries/1000.sql, Physical Planning, 1, 0, 639.516
+Indexed Algebra, queries/1000.sql, Total, 1, 0, 162230
+Indexed Algebra, queries/1000.sql, Simplify Expressions, 1, 0, 185.821
+Indexed Algebra, queries/1000.sql, Unnesting, 1, 0, 346.293
+Indexed Algebra, queries/1000.sql, Predicate Pushdown, 1, 0, 3185.92
+Indexed Algebra, queries/1000.sql, Side-way Information Passing, 1, 0, 362.295
+Indexed Algebra, queries/1000.sql, Cardinality Estimation, 1, 0, 1792.85
+Indexed Algebra, queries/1000.sql, Join Ordering, 1, 0, 150597
+Indexed Algebra, queries/1000.sql, Common Subtree Elimination, 1, 0, 3498
+Indexed Algebra, queries/1000.sql, Physical Planning, 1, 0, 639.715
+Indexed Algebra, queries/1000.sql, Total, 1, 0, 160609

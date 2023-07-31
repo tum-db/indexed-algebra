@@ -1,0 +1,157 @@
+DBMS, Joins, Time
+DuckDB,6,2.66667
+DuckDB,7,2
+DuckDB,8,1.66667
+DuckDB,9,1.66667
+DuckDB,10,2.33333
+DuckDB,11,3.33333
+DuckDB,12,4
+DuckDB,13,5
+DuckDB,14,6.66667
+DuckDB,15,8.66667
+DuckDB,16,11.3333
+DuckDB,17,14.3333
+DuckDB,18,18
+DuckDB,19,23.3333
+DuckDB,20,29.3333
+DuckDB,33,41.3333
+DuckDB,40,50.6667
+DuckDB,50,60.3333
+DuckDB,60,70.6667
+DuckDB,64,77.6667
+DuckDB,100,133.333
+DuckDB,200,325.667
+DuckDB,300,600.333
+DuckDB,1000,8065.67
+Hyper,6,1.14
+Hyper,7,1.204
+Hyper,8,1.22433
+Hyper,9,1.381
+Hyper,10,1.557
+Hyper,11,1.79767
+Hyper,12,1.97667
+Hyper,13,2.18367
+Hyper,14,2.368
+Hyper,15,2.646
+Hyper,16,2.988
+Hyper,17,3.15067
+Hyper,18,3.78333
+Hyper,19,3.87433
+Hyper,20,4.058
+Hyper,33,9.034
+Hyper,40,14.963
+Hyper,50,26.0243
+Hyper,60,40.4793
+Hyper,64,50.1767
+Hyper,100,274.439
+Hyper,180,60234.1
+MariaDB,6,309.899
+MariaDB,7,431.48
+MariaDB,8,561.378
+MariaDB,9,718.485
+MariaDB,10,895.654
+MariaDB,11,1067.03
+MariaDB,12,1271.47
+MariaDB,13,1479.83
+MariaDB,14,1711.45
+MariaDB,15,1967.36
+MariaDB,16,2238.36
+MariaDB,17,2505.15
+MariaDB,18,2815.52
+MariaDB,19,3133.13
+MariaDB,20,3481.02
+MariaDB,33,9365.3
+MariaDB,40,13895.2
+MariaDB,50,22051.6
+MariaDB,60,32239.5
+PostgreSQL,6,103.172
+PostgreSQL,7,144.853
+PostgreSQL,8,174.292
+PostgreSQL,9,206.873
+PostgreSQL,10,239.466
+PostgreSQL,11,273.826
+PostgreSQL,12,298.257
+PostgreSQL,13,330.697
+PostgreSQL,14,355.469
+PostgreSQL,15,370.669
+PostgreSQL,16,414.676
+PostgreSQL,17,457.484
+PostgreSQL,18,477.927
+PostgreSQL,19,491.53
+PostgreSQL,20,558.437
+PostgreSQL,33,847.983
+PostgreSQL,40,1123.11
+PostgreSQL,50,1393.96
+PostgreSQL,60,1720.95
+PostgreSQL,64,1913.67
+PostgreSQL,100,2784.83
+PostgreSQL,200,5592.41
+PostgreSQL,300,9435.18
+SQLite,6,0.977667
+SQLite,7,1.38
+SQLite,8,2.079
+SQLite,9,2.39733
+SQLite,10,2.727
+SQLite,11,2.16133
+SQLite,12,3.43033
+SQLite,13,3.68367
+SQLite,14,4.07633
+SQLite,15,4.518
+SQLite,16,4.93933
+SQLite,17,5.32767
+SQLite,18,5.77433
+SQLite,19,5.04033
+SQLite,20,6.41267
+SQLite,33,10.939
+SQLite,40,13.1963
+SQLite,50,16.5517
+SQLite,60,19.956
+SQLite,64,21.354
+Umbra,6,5.06133
+Umbra,7,0.852667
+Umbra,8,0.810667
+Umbra,9,0.782667
+Umbra,10,0.863333
+Umbra,11,0.899333
+Umbra,12,0.949667
+Umbra,13,0.971333
+Umbra,14,1.052
+Umbra,15,1.08633
+Umbra,16,1.14133
+Umbra,17,1.20633
+Umbra,18,1.27333
+Umbra,19,1.29333
+Umbra,20,1.37533
+Umbra,33,1.662
+Umbra,40,2.33633
+Umbra,50,2.88
+Umbra,60,3.39133
+Umbra,64,3.852
+Umbra,100,4.90467
+Umbra,200,10.1517
+Umbra,300,21.225
+Umbra,1000,89.9827
+Umbra Execution Only,6,3.23367
+Umbra Execution Only,7,0.576
+Umbra Execution Only,8,0.551
+Umbra Execution Only,9,0.495333
+Umbra Execution Only,10,0.539333
+Umbra Execution Only,11,0.542
+Umbra Execution Only,12,0.571333
+Umbra Execution Only,13,0.563667
+Umbra Execution Only,14,0.606333
+Umbra Execution Only,15,0.607667
+Umbra Execution Only,16,0.639667
+Umbra Execution Only,17,0.671333
+Umbra Execution Only,18,0.715667
+Umbra Execution Only,19,0.704
+Umbra Execution Only,20,0.744333
+Umbra Execution Only,33,0.871
+Umbra Execution Only,40,1.15633
+Umbra Execution Only,50,1.392
+Umbra Execution Only,60,1.60267
+Umbra Execution Only,64,1.777
+Umbra Execution Only,100,2.21033
+Umbra Execution Only,200,4.39167
+Umbra Execution Only,300,9.103
+Umbra Execution Only,1000,21.9227
